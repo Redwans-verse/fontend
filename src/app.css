@@ -1,0 +1,80 @@
+body {
+    background-color: #80808033 !important;
+}
+
+.row.px-50 {
+    margin: 40px 320px 40px 300px;
+    background-color: white;
+    padding: 30px 30px 30px 30px;
+    border-radius: 20px;
+    box-shadow: 0 25px 50px -12px rgba(0,0,0,0.25);
+}
+h3.heads {
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.red {
+    margin: 150px auto;
+}
+
+
+
+button.showbtn {
+    position: absolute;
+    top: 60%;
+    left: 66%;
+    background: transparent;
+    border: 0;
+    font-size: 20px;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mainco {
+    height: 92vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #7382970f;
+}
+
+.login {
+    width: 360px;
+    height: min-content;
+    padding: 20px;
+    border-radius: 12px;
+    background: #ffffff;
+}
+
+.login h1 {
+    font-size: 36px;
+    margin-bottom: 25px;
+}
+
+.login form {
+    font-size: 20px;
+}
+
+.login form .form-group {
+    margin-bottom: 12px;
+}
+
+.login form input[type="submit"] {
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+img.card-img-top.cardimg {
+    height: 200px;
+}
+
+.card-title.h5 {
+    font-size: 30px;
+    text-transform: capitalize;
+}
